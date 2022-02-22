@@ -1,6 +1,6 @@
-# Demonstration of pdf of reaction time of the Drift Diffusion Model and the log likliehood function given RT
+# Demonstration of Probability Density Function and Log Likelihood Estimate the Drift Diffusion Model
 # implementing the first-passage times in Wiener diffusion models proposed by Navarro & Fuss (2009)
-## This code demonstrates how to calculate the probability density function of BOTH upper bound and lower bound
+##* This code demonstrates how to calculate the probability density function of BOTH upper bound and lower bound*
 
 wfpt_navarro.py implements the probability density function of RT when other parameters (drift, boundary) are fixed.
 wfpt_twobound.pynb is the jupyter notebook version.
