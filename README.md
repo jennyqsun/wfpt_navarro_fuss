@@ -10,3 +10,4 @@ See wfpt_twobounds.ipynb as an example.
 
 wfpt_navarro.py implements the probability density function of RT when other parameters (drift, boundary) are fixed.
 wfpt_twobound.pynb is the jupyter notebook version.
+random_walk.py simulates random walk given a drift rate, and calculate the probability density function.
