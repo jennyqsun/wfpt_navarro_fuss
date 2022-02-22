@@ -13,7 +13,7 @@ def wfpt(t,v, t0,a,z,err=1e-29):
     if t < 0:
         print('sign flipped')
         v=-v
-        # t=-t
+        t=-t
     w = z/a
 
     ks = 2 + np.sqrt(-2*tt * np.log(2*np.sqrt(2*np.pi*tt)*err))
